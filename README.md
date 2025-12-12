@@ -43,6 +43,14 @@ I thrive on turning messy monoliths into clean, event-driven architectures; ment
 ![ProxySQL](https://img.shields.io/badge/-ProxySQL-000?style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 
+### 🌐 Frontend & Web:
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript) 
+![Vue.js](https://img.shields.io/badge/-Vue.js-333?style=flat&logo=vuedotjs) 
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat&logo=tailwindcss) 
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5) 
+![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
+
 ## DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions)
