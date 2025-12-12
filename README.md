@@ -43,7 +43,7 @@ I thrive on turning messy monoliths into clean, event-driven architectures; ment
 ![ProxySQL](https://img.shields.io/badge/-ProxySQL-000?style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 
-### 🌐 Frontend & Web:
+## Frontend & Web:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript) 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333?style=flat&logo=vuedotjs) 
